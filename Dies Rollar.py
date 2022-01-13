@@ -1,5 +1,5 @@
 # Python Programming Course : GUI Applications
-#                                 - Rahul Mula
+#                                 - Ali Raza
 # Dice Roller
 from tkinter import *
 
